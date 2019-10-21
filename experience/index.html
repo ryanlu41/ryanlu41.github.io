@@ -3,6 +3,64 @@ layout: default
 title: Ryan Lu - Experience
 ---
 
+<style>
+	.timeline {
+		border-left: 4px solid crimson;
+		padding-left: 30px;
+	}
+
+	.timeline-item {
+		border-radius: 5px;
+		border: 1px solid silver;
+		margin: 10px;
+		padding: 10px;
+	}
+
+	.timeline-item:before {
+		content: '';
+		position: absolute;
+		border-radius: 50%;
+		padding: 20px;
+		text-align: center;
+		margin-left: -74px;
+		margin-top: 15px;
+	}
+
+	.nevro:before {
+		background-size: contain;
+		background-image: url('{{ site.url }}/images/fb.png');
+	}
+
+	.cornell:before {
+		background-size: contain;
+		background-image: url('{{ site.url }}/images/cornell.jpg');
+	}
+
+	.st:before {
+		background-size: contain;
+		background-image: url('{{ site.url }}/images/startuptree.png');
+	}
+</style>
+<div class='row slide'>
+	<div class='col-md-6 offset-md-3 content-pad'>
+		<h3>WORK EXPERIENCE</h3>
+		<div class="timeline">
+			<div class="timeline-item nevro">
+				<h4>Facebook - Software Engineering Intern - Summer 2019</h4>
+				<ul>
+					<li>developed instrumentation to allow Lightspeed server teams to more effectively diagnose and
+						mitigate
+						issues in production</li>
+					<li>scoped and implemented optimizations to reduce both Lightspeed client binary size and server
+						response
+						payload size</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<br>
+
 <div class='row slide'>
 	<div class='col-md-6 offset-md-3 content-pad'>
 		<h3>EDUCATION</h3>
