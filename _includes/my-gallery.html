@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <style>
     .image-gallery {
     width: 100%;
@@ -32,7 +28,7 @@ layout: default
     {% assign sorted = site.static_files | sort: 'date' | reverse %}
     {% for file in sorted %}
     {% if file.path contains include.folder %}
-    {% if file.extname == '.png' %}
+    {% if file.extname == '.jpg' or file.extname == '.JPG' %}
       {% assign filenameparts = file.path | split: "/" %}
         {% assign filename = filenameparts | last | replace: file.extname,"" %}
          <div class="box"><a href="{{ file.path | relative_url }}" title="{{ filename }}">
