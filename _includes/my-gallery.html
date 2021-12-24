@@ -1,6 +1,6 @@
 <style>
     .image-gallery {
-    width: 100%;
+    width: 60%;
     display: grid;
     grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
     justify-content: center;
@@ -20,6 +20,9 @@
 	object-fit: cover;
     transform: scale(1);
     transition: all 0.3s ease-in-out;
+    &:hover {
+        transform: scale(1.05);
+    }
 }
 </style>
 
