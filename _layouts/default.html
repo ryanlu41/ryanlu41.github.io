@@ -10,6 +10,7 @@
         crossorigin="anonymous">
     {% include analytics.html %}
 <link rel='stylesheet' href="{{ site.url }}/css/style.css">
+<link rel='stylesheet' href="{{ site.url }}/css/lightbox.css">
 <!--<link rel='stylesheet' href="{{ site.url }}/css/rouge-github.css">-->
 </head>
 
@@ -22,6 +23,7 @@
         <a href='{{ site.url }}/experience/'>experience</a> ·
         <a href='{{ site.url }}/projects/'>projects</a> ·
         <a href='{{ site.url }}/blog/'>blog</a>
+        <a href='{{ site.url }}/photos/'>photos</a>
     </h4>
         {{ content }}
     <br>
@@ -31,5 +33,6 @@
         <a href='mailto:rlu17@jhu.edu' target='_blank'>email</a>
     </h4>
     <br>
+    <script src="{{ site.url }}/js/lightbox.js"></script>
 </body>
 </html>
