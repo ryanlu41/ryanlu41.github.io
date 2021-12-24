@@ -2,7 +2,7 @@
 layout: default
 title: Ryan Lu - Photos
 ---
-<style>
+<!--<style>
     .outer-img {
         width:45%;
         height: auto;
@@ -12,4 +12,33 @@ title: Ryan Lu - Photos
 
 <div class='col-md-6 offset-md-3 content-pad'>
     <a class="example-image-link" href="{{ site.url }}/images/gallery/DSC_0075.JPG" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="outer-img" src="{{ site.url }}/images/gallery/DSC_0075.JPG" alt=""/></a><a class="example-image-link" href="{{ site.url }}/images/gallery/DSC_0076.JPG" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="outer-img" src="{{ site.url }}/images/gallery/DSC_0076.JPG" alt=""/></a>
-</div>
+</div> -->
+<style>
+    .image-gallery {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+    justify-content: center;
+    padding: 4px;
+  }
+
+  .box {
+      flex-basis: 25%;
+      width: 100%;
+      padding: 10px;
+      margin: 2px;
+  }
+
+  .img-gallery {
+	width: 100%;
+  height: 200px;
+	object-fit: cover;
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+  }
+
+</style>
+
+{% include my-gallery.html folder="myfolder" %}
