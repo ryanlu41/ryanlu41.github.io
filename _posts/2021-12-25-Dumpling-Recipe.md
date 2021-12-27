@@ -29,7 +29,7 @@ Dumplings are one of my favorite foods to cook. They're delicious and super fun 
 * chicken broth
 
 ### Directions
-1. Peel and de-vein shrimp, then dice into small pieces
+1. Peel and devein shrimp, then dice into small pieces
 2. Dice the chives and cabbage, add salt, and let sit for a few minutes. 
 3. Mix ground pork, shrimp, minced ginger, soy sauce, oyster sauce, sugar, pepper, and egg in a large bowl.
 4. Add 2 tbsp of chicken broth into the bowl and stir. Keep adding and stirring 2 tbsp at a time until the meat is a bit loose.
