@@ -5,7 +5,9 @@ date: 2021-12-25
 category: "Recipes"
 ---
 
+{:refdef: style="text-align: center;"}
 ![dumplings](https://ryanlu41.github.io/images/blog/DSC_0044.JPG){: width="400"}
+{: refdef}
 
 Dumplings are one of my favorite foods to cook. They're delicious and super fun to make, especially with other people. This is less of a recipe, and more of a rough outline on how to make the type dumplings my family usually makes. As a result, I left some of the ingredient quantities blank, since they can be easily adjusted based on personal preference. In the future, I might replace these with more exact quantities, but I am currently very approximate with them.
 
