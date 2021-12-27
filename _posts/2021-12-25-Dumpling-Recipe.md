@@ -7,24 +7,23 @@ category: "Recipes"
 
 ![dumplings](https://ryanlu41.github.io/images/blog/DSC_0044.JPG){: height="px400"}
 
-
 Dumplings are one of my favorite foods to cook. They're delicious and super fun to make, especially with other people. This is less of a recipe, and more of a rough outline on how to make the type dumplings my family usually makes. As a result, I left some of the ingredient quantities blank, since they can be easily adjusted based on personal preference. In the future, I might replace these with more exact quantities, but I am currently very approximate with them.
 
 
 ### Ingredients
-- 1 pound ground pork
-- 1 pound shrimp
-- chives
-- Chinese cabbage
-- dumpling wrappers
-- ginger
-- 4 tbsp soy sauce
-- 1 tbsp oyster sauce
-- salt
-- pepper
-- sugar
-- 1 egg
-- chicken broth
+* 1 pound ground pork
+* 1 pound shrimp
+* chives
+* Chinese cabbage
+* dumpling wrappers
+* ginger
+* 4 tbsp soy sauce
+* 1 tbsp oyster sauce
+* salt
+* pepper
+* sugar
+* 1 egg
+* chicken broth
 
 ### Directions
 1. Peel and de-vein shrimp, then dice into small pieces
