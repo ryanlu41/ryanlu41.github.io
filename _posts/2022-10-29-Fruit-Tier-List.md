@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fruit Tier List"
-date: 2022-11-24
+date: 2022-10-29
 category: "Miscellaneous"
 ---
 
