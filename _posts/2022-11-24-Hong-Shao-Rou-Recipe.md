@@ -6,7 +6,7 @@ category: "Recipes"
 ---
 
 {:refdef: style="text-align: center;"}
-![hongshaorou](https://ryanlu41.github.io/images/blog/hongshaorou.jpeg){: width="400"}
+![hongshaorou](https://ryanlu41.github.io/images/blog/hongshaorou.jpeg){: width="25%"}
 {: refdef}
 
 This is a relatively easy recipe for making hong shao rou that I use pretty often. The source of the recipe is here: https://redhousespice.com/red-cooked-pork-belly/
