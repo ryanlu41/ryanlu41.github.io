@@ -6,10 +6,9 @@ category: "Recipes"
 ---
 
 {:refdef: style="text-align: center;"}
-![hongshaorou](https://ryanlu41.github.io/images/blog/hongshaorou.jpeg){: width="75%"}
 {: refdef}
 
-This is straight forward, yet tasty, recipe. I make this often on weekdays when I want something simple to eat. 
+This is a straightforward, yet tasty, recipe. I make this often on weekdays when I want something simple to eat. 
 
 ### Ingredients
 
@@ -19,8 +18,6 @@ Chicken + Marinade
 * 1/3 cups soy sauce
 * 1/2 cup white vinegar
 * 3 dried bay leaves
-
-\
 
 Cooking
 * 1/2 white onion
