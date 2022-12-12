@@ -16,3 +16,5 @@ The world building in the novel is incredible. The unique evolution of life on K
 I think the biggest weakness of the book is the characters, although Tchaikovsky generally hits the mark with them. The storyline on Kern's planet crosses generations. Consequently, we follow particular characters for only a few chapters maximum at a time, but they are well-developed in their limited book time. The human characters are followed for most of the novel. Some of the characters occasionally feel one-dimensional given their extended role; however, I still did enjoy reading about how the characters changed and reacted to the long years aboard the Gilgamesh. Additionally, some of the plot lines in human story felt less original and creative compared to the stories on Kern's planet.
 
 Overall, I thoroughly enjoyed *Children of Time* and completely recommend it to any science fiction lover. The story of ambitious, creative, and beautiful; I can see why it was awarded the 2017 Arthur C. Clarke award.
+
+Rating: 5/5
