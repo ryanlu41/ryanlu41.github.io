@@ -19,7 +19,13 @@ What can be said to be a weakness in time travelers cannot be said of Emily St. 
 
 The plot of the novel is engaging and satisfying; however, the novel shines through its beautifully written characters. This is not a science fiction novel that neglects its characters in favor of grand displays of futuristic technology and settings. Every single one of the main characters feels so real and well-developed, and I love the author's depictions of the more "mundane" moments that do not necessarily advance the plot significantly but breath so much life into her characters. I particularly loved Olive's storyline. One chapter of the book is dedicated to describing her experiences and emotional struggles while on tour on Earth, and I found this chapter just as riveting--if not more riveting--than the storyline investigating the source of the anamoly. The writing has a certain coziness to it that I have trouble describing in words; it reminds me that real life is often characterized by these little moments strung together--not a epic battle between good and evil.
 
-The novel was published in 2022, and thus, the COVID-19 pandemic is featured in the novel as well as reflections on life before and during a pandemic. This is the first novel that I have read where the pandemic is incorporated into the story, and I found myself reflecting on my own experiences in the past few years.
+The novel was published in 2022, and thus, the COVID-19 pandemic is featured in the novel as well as reflections on life before and during a pandemic. This is the first novel that I have read where the pandemic is incorporated into the story, and I found myself reflecting on my own experiences in the past few years. St. John Mandel captures perfectly the loneliness and fatigue of living through a pandemic lockdown. The following passage especially resonated with me, as someone who spent the first few months of the pandemic living alone:
+
+{:refdef: style="text-align: center;"}
+"I live alone," Annabel said. "We're not supposed to leave our houses, and it's just..." But she was crying now, truly weeping. 
+"I'm sorry," Olive said. "That sounds so lonely." She was staring out the window. The ambulance hadn't moved.
+"I just haven't been in a room with anyone in a very long time," Annabel said.
+{: refdef}
 
 *Sea of Tranquility* skillfully combines exquisitely developed characters with a compelling story, and I wholeheartedly recommend it to everyone.
 
