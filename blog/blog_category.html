@@ -1,0 +1,41 @@
+---
+layout: default
+title: My Blog
+---
+<div class='row slide'>
+	<div class="col-sm-6 offset-sm-3 content-pad">
+		<h3>{{ page.title }}</h3>
+		<br>
+		<a href="{{site.url}}/blog/index.html">Sort chronologically</a>
+		<br>
+		<hr>
+		<h3>Book Reviews</h3>
+		{% for post in site.posts %}
+		{% if post.category == "Book Reviews" %}
+			<p><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+		{% endif %}	
+		{% endfor %}
+
+		<h3>Recipes</h3>
+		{% for post in site.posts %}
+		{% if post.category == "Recipes" %}
+			<p><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </p>
+		{% endif %}	
+		{% endfor %}
+
+		<h3>Medical</h3>
+		{% for post in site.posts %}
+		{% if post.category == "Medical" %}
+			<p><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </p>
+		{% endif %}	
+		{% endfor %}
+
+		<h3>Miscellaneous</h3>
+		{% for post in site.posts %}
+		{% if post.category == "Miscellaneous" %}
+			<p><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </p>
+		{% endif %}	
+		{% endfor %}
+
+	</div>
+</div>
