@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Suffering and Healing"
-date: 2022-12-20
+date: 2022-12-22
 category: "Miscellaneous"
 ---
 
