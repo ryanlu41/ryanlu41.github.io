@@ -20,6 +20,8 @@ Overall, I found the book to be a fascinating read. I did not find it life-chang
 
 Rating: 5/5
 
+Note: I expand a bit more on the actual contents of this book in my blog post entitled <a href= "{% post_url 2022-12-22-Suffering-and-Healing %}">Suffering and Healing</a>. Be sure to check it out if you're interested!
+
 A selection of my favorite quotes (potential spoilers):
 * "We have come to know Man as he really is. After all, man is that being who invented the gas chambers of Auschwitz; however, he is also that being who entered those gas champers upright, with the Lord's Prayer or the *Shema Yisrael* on his lips."
 * "On the average, only those prisoners could keep alive who, after years of trekking from camp to camp, had lost all scruples in their fight for existence; they were prepared to use every means, honest and otherwise, even brutal force, theft, and betrayal of their friends, in order to save themselves. We who have come back, by the aid of many lucky chances or miracles--whatever one may choose to call them--we know: the best of us did not return."
