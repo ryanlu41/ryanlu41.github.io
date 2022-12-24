@@ -16,7 +16,7 @@ The autobiographical first part is a engrossing description of life within the c
 
 The second part is much clearer, and concisely lays out the his therapeutic doctrine of logotherapy, which focuses on people's search for meaning. The tone and content of this section represent a larger departure from the first part (a reflection of the fact that it was written 3 years later). I still really enjoyed the section--in part due to my interest in psychotherapy and psychiatry--and I believe it clarified some of the arguments he laid out in the first part of the text. 
 
-Overall, I found the book to be a fascinating read. I did not find it life-changing like some others have. Nevertheless, his experiences and thoughts on meaning in suffering gave me a sense of comfort, strength and hope, and I believe this is a book that I will need to return to and reread several times in the future. 
+Overall, I found the book to be a fascinating read. I did not find it life-changing like some others have. Nevertheless, his experiences and thoughts on finding meaning in suffering gave me a sense of comfort, strength, and hope, and I believe this is a book that I will need to return to and reread several times in the future. 
 
 Rating: 5/5
 
