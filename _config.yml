@@ -2,5 +2,5 @@ name: Ryan Lu
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 highlighter: rouge
-imagesurl: /images/gallery/
+imagesurl: /images/
 thumbsurl: /images/thumbs/

@@ -6,11 +6,11 @@ category: "Recipes"
 ---
 
 {:refdef: style="text-align: center;"}
-![birria1](https://ryanlu41.github.io/images/blog/birria1.jpeg){: width="60%"}
+![birria1](/images/blog/birria1.jpeg){: width="60%"}
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![birria2](https://ryanlu41.github.io/images/blog/birria2.jpeg){: width="60%"}
+![birria2](/images/blog/birria2.jpeg){: width="60%"}
 {: refdef}
 
 This was one of the best dishes I've ever made. The source of the recipe is here: https://houseofyumm.com/beef-birria-and-birria-tacos/

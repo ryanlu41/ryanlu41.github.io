@@ -6,7 +6,7 @@ category: "Book Reviews"
 ---
 
 {:refdef: style="text-align: center;"}
-![children of time cover](https://ryanlu41.github.io/images/blog/children_of_time_cover.jpeg){: width="25%"}
+![children of time cover](/images/blog/children_of_time_cover.jpeg){: width="25%"}
 {: refdef}
 
 *Children of Time* by Adrian Tchaikovsky is an absolutely amazing science fiction novel. The novel follows two intertwined plot lines that span a millenia. In one thread, the last remains of humanity leave a ravaged Earth aboard the Gilgamesh in search of a new home world. They follow star maps left behind of an advanced civilization--the so called "Old Empire"--that had collapsed a thousand years before the Gilgamesh's departure from Earth. The other plot line of the book follows the evolution of intelligent life on Kern's world, a terraformed planet left behind by the Old Empire. 

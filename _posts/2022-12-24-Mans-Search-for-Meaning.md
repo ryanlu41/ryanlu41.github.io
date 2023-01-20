@@ -6,7 +6,7 @@ category: "Book Reviews"
 ---
 
 {:refdef: style="text-align: center;"}
-![man's search for meaning cover](https://ryanlu41.github.io/images/blog/mans_search_for_meaning_cover.jpeg){: width="25%"}
+![man's search for meaning cover](/images/blog/mans_search_for_meaning_cover.jpeg){: width="25%"}
 {: refdef}
 
 

@@ -1,0 +1,16 @@
+---
+layout: pdf
+title: "Acid-Base Management"
+date: 2023-01-18
+category: "Medical"
+---
+
+<a href="/pdf/blog/acid_base.pdf" download>Download</a>
+
+<div class="image-show">
+{% for image in site.static_files %}
+    {% if image.path contains 'images/blog/acid_base' %}
+<img src="{{ site.url }}{{ image.path }}" alt="image" width="100%" style="display:block; float:left">
+    {% endif %}
+{% endfor %}
+</div>
