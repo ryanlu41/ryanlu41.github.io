@@ -30,13 +30,15 @@ title: My Blog
 		{% endif %}	
 		{% endfor %}
 
+		<!--
 		<h3>Science</h3>
 		{% for post in site.posts %}
 		{% if post.category == "Science" %}
 			<p><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </p>
 		{% endif %}	
 		{% endfor %}
-
+		-->
+		
 		<h3>Miscellaneous</h3>
 		{% for post in site.posts %}
 		{% if post.category == "Miscellaneous" %}
