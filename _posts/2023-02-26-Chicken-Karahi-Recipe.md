@@ -6,7 +6,7 @@ category: "Recipes"
 ---
 
 {:refdef: style="text-align: center;"}
-![chicken karahi](/images/blog/chicken_karahi.JPG){: width="75%"}
+![chicken karahi](/images/blog/chicken_karahi.jpg){: width="75%"}
 {: refdef}
 
 This has been one of my favorite recipes to make recently, especially on busy weekday nights. Even though the dish is incredibly flavorful, it only takes around 30 minutes to prepare, and the ingredients are pretty basic. The recipe below is based on [this YouTube video](https://youtu.be/4PMmH2-5wJM). Be sure to go check it out!
