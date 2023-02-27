@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chicken Karahi Recipe"
+title: "Chicken Karahi"
 date: 2023-02-26
 category: "Recipes"
 ---
