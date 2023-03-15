@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Spinoza, Hume, and Ontology"
+title: "Empiricism vs. Rationalism Part 1: Spinoza, Hume, and Ontology"
 date: 2023-03-08
-category: "Miscellaneous"
+category: "Philosophy"
 ---
 
 #### Preface
