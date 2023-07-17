@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thing's Fall Apart"
+title: "Things Fall Apart"
 date: 2023-07-16
 category: "Book Reviews"
 ---
