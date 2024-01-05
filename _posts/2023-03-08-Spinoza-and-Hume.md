@@ -27,7 +27,7 @@ Spinoza attempts to prove that substances necessarily exist because they must be
 
 Two main issues minimize the validity of Spinoza’s explanations. First, Spinoza’s arguments are circular. If one examines only the first axiom and the conclusion, Spinoza’s reasoning is reduced to “substances necessarily exist because everything that exists is a substance or made from substance.” The initial premise already assumes the existence of substance. Other parts of his argument also contain this assumption. For example, Spinoza asserts that either substances are caused by themselves or they are caused by other substances, neglecting the possibility that they are caused by nothing if they do not exist. 
 
-The second main logical flaw lies in his argument that distinguishable substances cannot share attributes. However, if substances have multiple attributes, then they can share attributes while still being distinguishable if their complete set of attributes are not identical. For example, two triangles can be identical in shape but vary in color while still being distinguishable. Thus, even within his flawed circular framework, substances can cause other substances. 
+The second main logical flaw lies in his argument that distinguishable substances cannot share attributes. However, if substances have multiple attributes, then they can share attributes while still being distinguishable if their complete sets of attributes are not identical. For example, two triangles can be identical in shape but vary in color while still being distinguishable. Thus, even within his flawed circular framework, substances can cause other substances. 
 
 As a short aside, Gottfried Leibniz, another rationalist philosopher, agrees with these objections. Although Leibniz also believes in the existence of substances, substances in his framework can cause other substances; more specifically, a God substance creates all other substances and endows them with a part of its perfection. 
 
@@ -54,7 +54,7 @@ Spinoza’s third proof of God depends on the Principle of Sufficient Reason, wh
 3. God does not exist because of a reason from *outside* God's nature
 
 
-God is absolutely infinite and supremely perfect, so a cause for nonexistence cannot come from God. The reason for God’s nonexistence cannot be external from God either because God is a substance, and substances cannot cause other substances. Therefore, God must exist. 
+God is absolutely infinite and supremely perfect, so a cause for nonexistence cannot come from God. The reason for God’s nonexistence cannot be external to God either because God is a substance, and substances cannot cause other substances. Therefore, God must exist. 
 
 As in previous arguments, the premise that substance cannot cause another substance is not well-supported. Spinoza also derives the premise that a substance cannot be the cause of another substance’s nonexistence from the premise that a substance cannot be the cause of another substance’s existence. The logical connection between these two ideas is weak and is contradicted elsewhere in his arguments. For example, by asserting that substances cannot share a single attribute, he also implies that a single substance with a certain attribute then necessarily is the reason for the nonexistence of another substance with the same attribute. Finally, Spinoza’s arguments are again circular. To be absolutely infinite and supremely perfect, God must exist, yet God exists because he is absolutely infinite and supremely perfect.
 
@@ -73,5 +73,6 @@ The existence of an absolutely infinite God is the basis of Spinoza’s monist m
 Hume, David. “An Enquiry Concerning Human Understanding.” *17th and 18th Century Philosophy*, edited by Brian Tapia, Cognella, San Diego, 250-287.
 
 Spinoza, Baruch. “The Ethics.” *17th and 18th Century Philosophy*, edited by Brian Tapia, Cognella, San Diego, 75-114.
+
 
 

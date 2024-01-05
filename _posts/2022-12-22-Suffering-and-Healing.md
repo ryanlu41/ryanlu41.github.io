@@ -15,13 +15,13 @@ There is no single universal definition for what constitutes suffering, but it i
 
 #### Overcoming Suffering
 
-The simplest way to overcoming suffering is to remove the threat to one's integrity or sense of meaning; of course, this is often not possible. Thomas Egnew writes that even when the threat cannot be removed, healing and alleviation of suffering can occur through the *transcendence* of suffering. The use of the term *transcendence* reflects a fundamental change in the relationship between the self, the world, and the threat. Transcendence can be accomplished through meaning, through hope, and through acceptance.
+The simplest way to overcome suffering is to remove the threat to one's integrity or sense of meaning; of course, this is often not possible. Thomas Egnew writes that even when the threat cannot be removed, healing and alleviation of suffering can occur through the *transcendence* of suffering. The use of the term *transcendence* reflects a fundamental change in the relationship between the self, the world, and the threat. Transcendence can be accomplished through meaning, through hope, and through acceptance.
 
 Victor Frankl writes extensively about finding meaning through suffering in his book *Man’s Search for Meaning*. Frankl was an Austrian neurologist, psychiatrist, and psychotherapist who drew upon his experiences imprisoned in concentration camps during the Holocaust to develop logotherapy, a school of thought within psychotherapy that views life as a quest for meaning. For Frankl, all suffering has the potential for meaning: 
 
 “If there is a meaning in life at all, then there must be a meaning in suffering. Suffering is an ineradicable part of life, even as fate and death. Without suffering and death human life cannot be complete.” (Frankl, 1959)
 
-Frankl believes that meaning in suffering can come from suffering with courage. In his book, Frankl describes inmates who did not descend into savagery despite the dehumanizing and deplorable conditions of the camps. Instead, they suffered well by retaining their inner freedom, humanity, and dignity. To him, they were like martyrs. “They were worthy of their sufferings; the way they bore their suffering was a genuine inner achievement” (Frankl, 2006). Meaning in suffering can also come through sacrifice. One of Frankl’s patients lost his wife his during the Holocaust. He found meaning in his grief by viewing it as a necessary sacrifice that spared his wife the emotional suffering had she survived and he died.
+Frankl believes that meaning in suffering can come from suffering with courage. In his book, Frankl describes inmates who did not descend into savagery despite the dehumanizing and deplorable conditions of the camps. Instead, they suffered well by retaining their inner freedom, humanity, and dignity. To him, they were like martyrs. “They were worthy of their sufferings; the way they bore their suffering was a genuine inner achievement” (Frankl, 2006). Meaning in suffering can also come through sacrifice. One of Frankl’s patients lost his wife during the Holocaust. He found meaning in his grief by viewing it as a necessary sacrifice that spared his wife the emotional suffering had she survived and he died.
 
 Hope can also help alleviate suffering. Many philosophers have described two different levels of hope. The first is more concrete. It is the hope for a specific goal or outcome, and it is expressed as “I hope that…” This hope can sustain people through suffering; in *Man’s Search for Meaning*, Frankl describes how his hopes of publishing his manuscript and reuniting with his wife helped him survive the brutality of the concentration camps. The second level of hope is deeper, and is expressed as “I hope…” This hope has been called different names by different authors, including transcendental hope, generalized hope, and deep hope. Common to different thinkers is the belief that this type of hope is existential; Pellegrino and Thomasma describe it as “the hope about the meaningfulness and purpose of human existence” (as cited in Coulehan, 2011). This hope for meaning allows for suffering to be meaningful in dire circumstances.
 
@@ -32,13 +32,13 @@ Finally, suffering can be transcended through acceptance. In suffering, certain 
 3. *nirodha*: the cessation of *dukkha* comes with letting go of *tanha*
 4. *marga*: the Eightfold Path can lead one to *nirodha*
 
-In *No Mud, No Lotus*, Thich Nhat Hanh describes a number of strategies for alleviating suffering. The most essential strategy is letting go, and he tells a story about a farmer to illustrate his point. A farmer who owns many cows will suffer when he for some reason loses them, but a beggar, who does not own anything, cannot suffer from losing cows. Similarly, by letting go of one’s attachments to different aspects of oneself, one can overcome suffering. Thich Nhat Hanh believes that mindfulness can help one through the process of letting go. Mindful meditation allows one to be present in the suffering, leading to greater understanding of the attachments causing it. 
+In *No Mud, No Lotus*, Thich Nhat Hanh describes several strategies for alleviating suffering. The most essential strategy is letting go, and he tells a story about a farmer to illustrate his point. A farmer who owns many cows will suffer when he for some reason loses them, but a beggar, who does not own anything, cannot suffer from losing cows. Similarly, by letting go of one’s attachments to different aspects of oneself, one can overcome suffering. Thich Nhat Hanh believes that mindfulness can help one through the process of letting go. Mindful meditation allows one to be present in the suffering, leading to a greater understanding of the attachments causing it. 
 
 #### Suffering and Medicine
 
 To become true healers, physicians must be able to treat both the physical illnesses and the mental sufferings of their patients. How, then, can physicians alleviate suffering?
 
-The fundamental strategy for addressing patient suffering is cultivating the patient-doctor therapeutic relationship. To be holistic healers, physicians cannot act in the traditional model of detached concern; instead, they must be compassionate and empathetic presences for their patients. As mentioned earlier, suffering is often expressed through narrative, and thus, healing suffering can also be accomplished through narrative medicine. Being a good listener, eliciting patient narratives of their illness or suffering, normalizing patient feelings, and guiding patients toward new narrative can help patients find meaning, acceptance, and hope. 
+The fundamental strategy for addressing patient suffering is cultivating the patient-doctor therapeutic relationship. To be holistic healers, physicians cannot act in the traditional model of detached concern; instead, they must be compassionate and empathetic presences for their patients. As mentioned earlier, suffering is often expressed through narrative, and thus, healing suffering can also be accomplished through narrative medicine. Being a good listener, eliciting patient narratives of their illness or suffering, normalizing patient feelings, and guiding patients toward new narratives can help patients find meaning, acceptance, and hope. 
 
 #### References
 
@@ -47,6 +47,7 @@ The fundamental strategy for addressing patient suffering is cultivating the pat
 * Frankl, V. E., Kushner, H. S., & Winslade, W. J. (2006). *Man's Search for Meaning*. Beacon Press. 
 * Hạnh, T. N. (2017). *No Mud, No Lotus: The Art of Transforming Suffering*. Aleph Book Company. 
 * Mark, J. J. (2022, December 20). *Four Noble Truths*. World History Encyclopedia. Retrieved December 21, 2022, from https://www.worldhistory.org/Four_Noble_Truths/ 
+
 
 
 
